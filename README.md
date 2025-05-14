@@ -1,0 +1,1 @@
+hello sir, this is a maven project so please redirect to the WebcamCurrencyCounter folder and run mvn clean install, also this require spark to be online first before the backend can work sir, thank you!
